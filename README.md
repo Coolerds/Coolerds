@@ -2,7 +2,7 @@
 
 > 欲买桂花同载酒，只可惜故人，何日再见呢
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Akegarasu&count_private=true&show_icons=true" />
+  <img align="right" src="" />
 </a>
 
 🍓 **About Me**
