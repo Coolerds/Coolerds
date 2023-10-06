@@ -20,7 +20,3 @@
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-
-🎄 **Others**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Coolerds&theme=dark&show_icons=synthwave" />
